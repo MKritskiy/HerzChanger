@@ -1,6 +1,8 @@
 @echo off
 setlocal enabledelayedexpansion
 
+::Copyright (c) MKritskiy.
+echo Copyright (c) MKritskiy.
 :: Устанавливаем кодировку консоли на UTF-8
 chcp 65001 > nul
 
